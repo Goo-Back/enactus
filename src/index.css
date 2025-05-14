@@ -1,0 +1,12 @@
+:root{
+  --bg-color:rgb(233, 236, 239);
+  --section-bg-color:rgb(248, 249, 250);
+  --btn-bg: #F97316;
+  --btn-bg-hover: #EA580C;
+  --btn-text: #FFFFFF;
+  --color-text: #111827;
+  --font-size-base: 16px;
+  --font-size-title: 2rem;
+  --font-weight-normal: 400;
+  --font-weight-bold: 700;
+}
